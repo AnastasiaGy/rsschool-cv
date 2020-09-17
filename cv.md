@@ -1,4 +1,4 @@
-Name: ##Chaichyts Anastasya;
+__Name__: ##Chaichyts Anastasya;
 Phone number: +375(25)700-16-36;
 Date of Birth: 12th November 2002;
 Email: nastya7607@gmail.com;
